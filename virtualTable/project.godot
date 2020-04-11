@@ -19,6 +19,10 @@ config/name="VirtualTable"
 run/main_scene="res://lobby.tscn"
 config/icon="res://icon.png"
 
+[display]
+
+window/stretch/mode="2d"
+
 [rendering]
 
 quality/driver/driver_name="GLES2"
